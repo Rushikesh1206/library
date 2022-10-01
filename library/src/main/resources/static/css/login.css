@@ -1,0 +1,30 @@
+body {
+  margin-top: 0px;
+  background-image: url("./Images/library.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+  width: 100%;
+}
+a {
+  color: azure;
+  padding-left: 30pt;
+  text-align: justify;
+  align-content: right;
+}
+.box1 {
+  width: 500px;
+  height: 400px;
+  background-color: indigo;
+  margin: 70px auto;
+  opacity: 0.7;
+  color: white;
+  padding: 20px;
+}
+input {
+  height: 25px;
+  width: 300px;
+}
+form .login {
+  margin: auto 70px;
+}
